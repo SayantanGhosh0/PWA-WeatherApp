@@ -1,6 +1,6 @@
 # Progressive Web App for Weather Application
 
-[Work in Progress - Live Site](https://weatheronsteroids.netlify.app/)
+[Live Site - WIP](https://weatheronsteroids.netlify.app/)
 
 You can find weather of a certain place by typing in a city's name and pressing enter.
 
